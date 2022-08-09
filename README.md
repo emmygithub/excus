@@ -1,2 +1,2 @@
 # excus
-About the time I learned Html and Css. Still new to me and feeling excited learning web develop. Its fun
+The moments I started using HTML and CSS. Good old days.
