@@ -1,3 +1,3 @@
 # excus
 
-Among my new projects 
+An excusion project with HTML
